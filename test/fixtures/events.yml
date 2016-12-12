@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timestamp: 2016-08-09 13:11:01
+  string: MyString
+  hostname: MyString
+  org: one
+
+two:
+  timestamp: 2016-08-09 13:11:01
+  string: MyString
+  hostname: MyString
+  org: two
